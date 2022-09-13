@@ -1,5 +1,5 @@
 # Crudfcts
-make a git clone to the project https://github.com/FatmaElk/Crudfcts.git
+make a git clone https://github.com/FatmaElk/Crudfcts.git
 
 Open visual studio and import the project
 
